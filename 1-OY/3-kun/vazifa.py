@@ -1,0 +1,10 @@
+print("Xayt bayramingiz muborak")
+print("men kanikulda it, rus tili,inglis tilariga borvoman " )
+print(" kanikulda itni chuqur o'rganishga harakat qilaman")
+print("kota bolsam kiber xafsizlik boyicha shug'ilanmoqchiman")
+print("qoshimcha yana maktbga it ga borvoman")
+print("bugungi darsimizga ko'pchilik kechikdi")
+print("menga ikkinnchi 5-dars juda yoqdi")
+print("xayit bayramini xama musulmonlar nishonlaydi")
+print("Ronaldo 2026yil foalyatini bitradi")
+

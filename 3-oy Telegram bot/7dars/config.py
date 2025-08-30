@@ -1,0 +1,2 @@
+BOT_TOKEN= "8084721681:AAHxwBzktC2hZxOtGXQw3FcfbQvpLl0sYAU"
+CHANNEL_ID = "@nmadr_test"
